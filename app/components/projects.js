@@ -1,6 +1,6 @@
 import Link from 'next/link';
 import Image from 'next/image'; // Use Next.js Image for optimized image handling
-import ExpenseTracker from '../assets/projects/ExpenseTracker.png';
+import ExpenseTracker from '../assets/Projects/ExpenseTracker.png';
 
 export default function Projects() {
   const project = [

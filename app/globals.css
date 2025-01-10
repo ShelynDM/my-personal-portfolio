@@ -31,3 +31,23 @@ body {
     text-wrap: balance;
   }
 }
+
+li {
+  cursor: pointer;
+  padding: 0.5rem;
+}
+
+.content-div {
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 250px;
+}
+
+.content-div:hover {
+  background-image: linear-gradient(
+    to right,
+    rgba(112, 157, 255, 0.8)
+    hsla(242, 74%, 61%, 0.8)
+  );
+}

@@ -11,13 +11,13 @@ export default function About() {
                 </div>
                 <div className="max-w-[1000px] w-full px-4 grid sm:grid-cols-2 gap-8">
                     <div className=" sm:text-right text-4xl font-bold ">
-                        <p>Hi, I'm Shelyn, its very nice to meet you. Please take a look around.</p>
+                        <p>Hi, I&apos;m Shelyn, its very nice to meet you. Please take a look around.</p>
                     </div>
                     <div>
                         <p>
                         I took a basic programming course in my previous education, and I believe in continuous innovation which is why I became interested in programming. 
                         I enjoy building, and problem-solving and am always eager to challenge the limit. What motivates me is knowing that technology is limitless. 
-                        I've witnessed how technology evolves and it never failed to amaze me. I also enjoy talking with different people and sharing different ideas. 
+                        I&apos;ve witnessed how technology evolves and it never failed to amaze me. I also enjoy talking with different people and sharing different ideas. 
                         I am a goal-driven person and a constant learner. 
                         I am also excited to know and explore, through software development, how I will be able to contribute and execute my ideas while learning more.
                         </p>

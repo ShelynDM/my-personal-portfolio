@@ -15,11 +15,10 @@ export default function About() {
                     </div>
                     <div>
                         <p>
-                        I took a basic programming course in my previous education, and I believe in continuous innovation which is why I became interested in programming. 
-                        I enjoy building, and problem-solving and am always eager to challenge the limit. What motivates me is knowing that technology is limitless. 
-                        I&apos;ve witnessed how technology evolves and it never failed to amaze me. I also enjoy talking with different people and sharing different ideas. 
-                        I am a goal-driven person and a constant learner. 
-                        I am also excited to know and explore, through software development, how I will be able to contribute and execute my ideas while learning more.
+                        I&apos;ve always had a passion for creativity—whether it&apos;s drawing, designing, or building something from the ground up. That creative spark is what drew me to programming. I love how it combines logic with imagination, making every project feel like solving a complex puzzle, which is something I&apos;ve always enjoyed.
+                        Back in school, I gravitated toward projects that challenged me to think critically about code logic, and that passion has carried over to everything I do today. Though I&apos;m still new to this field, I find it thrilling how programming constantly evolves, presenting new opportunities to learn and grow with each project.
+                        When I&apos;m not coding or designing, I love spending time outdoors, especially hiking during the summer. It&apos;s a great way to recharge and find inspiration for the next big challenge.
+                        I&apos;m eager to keep exploring, learning, and creating, and I can&apos;t wait to see where this journey takes me!
                         </p>
                     </div>
                 </div>

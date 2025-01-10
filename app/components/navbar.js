@@ -100,11 +100,11 @@ export default function Navbar() {
                             Email <HiOutlineMail size={30}/>
                         </Link>
                     </li>
-                    <li className=' p-4 w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#46b5ff]'>
+                    {/* <li className=' p-4 w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-300 bg-[#46b5ff]'>
                         <a className='flex justify-between items-center w-full  text-gray-300' href="/">
                             Resume <BsFillPersonLinesFill size={30}/>
                         </a>
-                    </li>
+                    </li> */}
                 </ul>
 
             </div>

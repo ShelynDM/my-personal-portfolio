@@ -1,50 +1,32 @@
 import Link from 'next/link';
 import Image from 'next/image'; // Use Next.js Image for optimized image handling
 import ExpenseTracker from '../assets/Projects/ExpenseTracker.png';
+import SocialGrdn from '../assets/Projects/SocialGrdn.png';
+import SOSRoyale from '../assets/Projects/SOSRoyale.png';
+import Cluster from '../assets/Projects/Cluster.png';
 
 export default function Projects() {
   const project = [
     {
-      image: ExpenseTracker,
-      title: 'Expense Tracker',
-      description: 'A simple expense tracker app built using Next.js and Tailwind CSS',
-      url: 'https://expense-calculator-shelyn-del-mundos-projects.vercel.app/',
-      github: 'https://github.com/ShelynDM/expense-calculator.git',
+      image: SocialGrdn,
+      title: 'Social Grdn',
+      description: 'A platform where landowners connect with gardening enthusiasts to promote sustainability by making use of underutilized land with the potential to grow. Built using React PWA with Tailwind CSS, Firebase, MySQl, and Google Maps API',
+      url: 'https://www.youtube.com/watch?v=67cCPad7O8w',
+      github: 'https://github.com/ShelynDM/socialgrdn-v1.git',
     },
     {
-        image: ExpenseTracker,
-        title: 'Expense Tracker',
-        description: 'A simple expense tracker app built using Next.js and Tailwind CSS',
-        url: 'https://expense-calculator-shelyn-del-mundos-projects.vercel.app/',
-        github: 'https://github.com/ShelynDM/expense-calculator.git',
+        image: SOSRoyale,
+        title: 'SOS Royale',
+        description: 'SOS Royale offers a tic-tac-toe-style gameplay experience, challenging players to strategically connect the letters "SOS" across a specified grid, aiming to fill out the entire grid. The player who successfully connects these letters the most times, wins the game. Built using React Native',
+        url: 'https://youtube.com/shorts/3xJgTTC_UXE?feature=shared',
+        github: 'https://github.com/ShelynDM/SOSRoyale/settings',
       },
       {
-        image: ExpenseTracker,
-        title: 'Expense Tracker',
-        description: 'A simple expense tracker app built using Next.js and Tailwind CSS',
-        url: 'https://expense-calculator-shelyn-del-mundos-projects.vercel.app/',
-        github: 'https://github.com/ShelynDM/expense-calculator.git',
-      },
-      {
-        image: ExpenseTracker,
-        title: 'Expense Tracker',
-        description: 'A simple expense tracker app built using Next.js and Tailwind CSS',
-        url: 'https://expense-calculator-shelyn-del-mundos-projects.vercel.app/',
-        github: 'https://github.com/ShelynDM/expense-calculator.git',
-      },
-      {
-        image: ExpenseTracker,
-        title: 'Expense Tracker',
-        description: 'A simple expense tracker app built using Next.js and Tailwind CSS',
-        url: 'https://expense-calculator-shelyn-del-mundos-projects.vercel.app/',
-        github: 'https://github.com/ShelynDM/expense-calculator.git',
-      },
-      {
-        image: ExpenseTracker,
-        title: 'Expense Tracker',
-        description: 'A simple expense tracker app built using Next.js and Tailwind CSS',
-        url: 'https://expense-calculator-shelyn-del-mundos-projects.vercel.app/',
-        github: 'https://github.com/ShelynDM/expense-calculator.git',
+        image: Cluster,
+        title: 'Cluster (Design Concept)',
+        description: 'Cluster App is an idea for a platform where collectors can organize, showcase, and connect. It would feature tools for cataloging, advanced search, and chat, creating a dedicated space for discovering, sharing, and growing collections.',
+        url: 'https://www.figma.com/design/a4QJJDrNGdCHdS7caje0iD/P3_Cluster_HighFidelity_Octopus?t=G99vyjs3EzPg2Pz3-1',
+        github: 'https://www.figma.com/design/a4QJJDrNGdCHdS7caje0iD/P3_Cluster_HighFidelity_Octopus?t=G99vyjs3EzPg2Pz3-1',
       },
       {
         image: ExpenseTracker,

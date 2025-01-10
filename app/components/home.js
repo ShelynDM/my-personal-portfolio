@@ -8,10 +8,11 @@ export default function Home() {
             <div className='max-w-[1000px] mx-auto px-8 flex flex-col justify-center h-full'>
                 <p className='text-blue-700'>Hi, my name is</p>
                 <h1 className='text-4xl sm:text-7xl font-bold text-cyan-50'>Shelyn Del Mundo</h1>
-                <h2 className='text-4xl sm:text-7xl font-bold text-gray-500'>I recently completed the Software Development Program at SAIT.</h2>
+                <h2 className='text-4xl sm:text-7xl font-bold text-gray-500'>I recently completed the Software Development Diploma at SAIT.</h2>
                 <p className='text-gray-300 py-4 max-w-[700px]'>
                     I took a basic programming course in my previous education, and I believe in continuous innovation which is why I became interested in programming. 
-                    I enjoy building, and problem-solving and am always eager to challenge the limit. What motivates me is knowing that technology is limitless. 
+                    I enjoy building, and problem-solving and am always eager to challenge the limit.  I also have a keen interest in design and enjoy drawing in my free time, which helps me stay creative and inspired. 
+                    What motivates me is knowing that technology is limitless. 
                     I&apos;ve witnessed how technology evolves and it never failed to amaze me. I also enjoy talking with different people and sharing different ideas. 
                     I am a goal-driven person and a constant learner. 
                     I am also excited to know and explore, through software development, how I will be able to contribute and execute my ideas while learning more.
